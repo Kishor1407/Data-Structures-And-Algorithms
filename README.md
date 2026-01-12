@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
