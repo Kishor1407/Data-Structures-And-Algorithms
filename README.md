@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
