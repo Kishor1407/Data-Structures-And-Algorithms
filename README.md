@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0070-climbing-stairs) |
 ## Tree
 |  |
 | ------- |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0572-subtree-of-another-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
