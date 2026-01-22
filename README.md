@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0338-counting-bits) |
 ## Stack
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
