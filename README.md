@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0658-find-k-closest-elements) |
+| [0697-degree-of-an-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0697-degree-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
+| [0697-degree-of-an-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0697-degree-of-an-array) |
 ## String
 |  |
 | ------- |
