@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0258-add-digits) |
 ## Tree
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0258-add-digits) |
 ## Hash Function
 |  |
 | ------- |
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0701-insert-into-a-binary-search-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
