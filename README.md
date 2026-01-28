@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0658-find-k-closest-elements) |
 ## Two Pointers
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0441-arranging-coins) |
 ## Tree
 |  |
 | ------- |
