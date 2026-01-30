@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0441-arranging-coins) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/2769-find-the-maximum-achievable-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Tree
 |  |
