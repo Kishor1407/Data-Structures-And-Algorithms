@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0459-repeated-substring-pattern](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -268,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0292-nim-game) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
