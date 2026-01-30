@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0697-degree-of-an-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0697-degree-of-an-array) |
 | [1550-three-consecutive-odds](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/1550-three-consecutive-odds) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Binary Search
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0441-arranging-coins) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/2769-find-the-maximum-achievable-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Tree
