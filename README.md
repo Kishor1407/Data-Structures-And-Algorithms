@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0697-degree-of-an-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0697-degree-of-an-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1550-three-consecutive-odds](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/1550-three-consecutive-odds) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0658-find-k-closest-elements) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Two Pointers
 |  |
 | ------- |
