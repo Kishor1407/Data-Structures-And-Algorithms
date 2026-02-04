@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1539-kth-missing-positive-number](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/1550-three-consecutive-odds) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1539-kth-missing-positive-number](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
 | ------- |
