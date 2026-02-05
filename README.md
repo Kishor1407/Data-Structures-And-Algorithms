@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0171-excel-sheet-column-number) |
+| [0257-binary-tree-paths](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0463-island-perimeter) |
 | [0572-subtree-of-another-tree](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0572-subtree-of-another-tree) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
@@ -302,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
