@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0572-subtree-of-another-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0572-subtree-of-another-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
