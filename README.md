@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0204-count-primes) |
 | [0239-sliding-window-maximum](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0367-valid-perfect-square) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0258-add-digits) |
 ## Brainteaser
 |  |
@@ -323,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0257-binary-tree-paths) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
