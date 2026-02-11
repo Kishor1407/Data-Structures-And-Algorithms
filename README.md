@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0463-island-perimeter) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/1046-last-stone-weight) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 ## Backtracking
 |  |
@@ -346,10 +351,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
 | ------- |
@@ -358,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
