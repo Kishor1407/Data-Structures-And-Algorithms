@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
@@ -75,12 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0015-3sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0658-find-k-closest-elements) |
 ## Hash Table
@@ -333,4 +336,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0204-count-primes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
