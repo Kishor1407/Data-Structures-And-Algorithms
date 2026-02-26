@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1046-last-stone-weight](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/1046-last-stone-weight) |
+| [1089-duplicate-zeros](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/1539-kth-missing-positive-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0658-find-k-closest-elements) |
+| [1089-duplicate-zeros](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sliding Window
