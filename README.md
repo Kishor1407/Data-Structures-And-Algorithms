@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0697-degree-of-an-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0645-set-mismatch](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0658-find-k-closest-elements) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Heap (Priority Queue)
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0697-degree-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0338-counting-bits) |
+| [0645-set-mismatch](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
 | ------- |
