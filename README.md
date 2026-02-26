@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1046-last-stone-weight](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0645-set-mismatch](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0658-find-k-closest-elements) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Kishor1407/Data-Structures-And-Algorithms/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Heap (Priority Queue)
 |  |
